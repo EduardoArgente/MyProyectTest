@@ -589,3 +589,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.20-22.10.00:244][187]LogFileHelpers: Loading map 'Mimundo' took 0.891
 [2021.08.20-22.10.18:678][811]LogSlate: Window 'Message Log' being destroyed
 [2021.08.20-22.10.18:698][811]LogSlate: Window 'Message Log' being destroyed
+[2021.08.20-22.23.45:576][745]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c896dd46-4d68-478f-80f9-00a5feacc681} was removed. Shutting down audio device.
+[2021.08.20-22.23.45:576][745]LogInit: XAudio2 using 'Speaker (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.08.20-22.23.45:891][746]LogInit: XAudio2 using 'Speaker (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.08.20-22.23.55:913][776]LogInit: XAudio2 using 'Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.08.20-22.23.56:959][779]LogInit: XAudio2 using 'Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
